@@ -1,0 +1,2 @@
+C:\Users\Idea\source\repos\ParallelProgramming\LunchOfPhilosophers\Debug\LunchOfPhilosophers.exe
+C:\Users\Idea\source\repos\ParallelProgramming\LunchOfPhilosophers\Debug\LunchOfPhilosophers.pdb

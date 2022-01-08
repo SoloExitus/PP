@@ -1,0 +1,2 @@
+C:\Users\Idea\source\repos\ParallelProgramming\KNAPSACK01\Debug\KNAPSACK01.exe
+C:\Users\Idea\source\repos\ParallelProgramming\KNAPSACK01\Debug\KNAPSACK01.pdb

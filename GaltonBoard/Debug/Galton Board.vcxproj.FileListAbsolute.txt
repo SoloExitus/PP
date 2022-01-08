@@ -1,0 +1,4 @@
+C:\Users\Idea\source\repos\Galton Board\Debug\Galton Board.exe
+C:\Users\Idea\source\repos\Galton Board\Debug\Galton Board.pdb
+C:\Users\Idea\source\repos\ParallelProgramming\GaltonBoard\Debug\Galton Board.exe
+C:\Users\Idea\source\repos\ParallelProgramming\GaltonBoard\Debug\Galton Board.pdb

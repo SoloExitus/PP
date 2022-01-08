@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_pthread_create в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_pthread_join в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_pthread_mutex_init в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_pthread_mutex_destroy в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_pthread_mutex_lock в функции "void * __cdecl threadFunc(void *)" (?threadFunc@@YAPEAXPEAX@Z).
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_pthread_mutex_unlock в функции "void * __cdecl threadFunc(void *)" (?threadFunc@@YAPEAXPEAX@Z).
+C:\Users\Idea\Desktop\pthreads\lib\pthreadVC2.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Idea\Desktop\pthreads\lib\pthreadVCE2.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Idea\Desktop\pthreads\lib\pthreadVSE2.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Idea\source\repos\Pthreads1\x64\Debug\Pthreads1.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
